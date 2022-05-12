@@ -1,3 +1,9 @@
 [submodule "themes/roxo"]
 	path = themes/roxo
 	url = git@github.com:StaticMania/portio-hugo.git
+[submodule "themes/hugo-split-themes"]
+	path = themes/hugo-split-themes
+	url = https://github.com/escalate/hugo-split-theme.git
+[submodule "themes/hugo-split-theme"]
+	path = themes/hugo-split-theme
+	url = https://github.com/escalate/hugo-split-theme.git
